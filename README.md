@@ -11,7 +11,7 @@ Esta documentação indica a forma que deve ser descrita uma funcionalidade, est
 
 
 ## Refining
-- **consulta**: consulta indica de onde vem a informação, é adequando tipificar(definir origem) se está vem de uma interface para consumo por um cliente ou acesso a uma base de dados(interface/database), a consulta ainda pode ser definida(estado) em existente ou não existente ou a ser modificada(created/to_be_create/to_be_modified).
+- **consulta**: consulta indica de onde vem a informação, é adequando `tipificar(definir origem)` se está vem de uma interface para consumo por um cliente ou acesso a uma `base de dados(interface/database)`, a consulta ainda pode ser `definida(estado)` em existente ou não existente ou a ser `modificada(created/to_be_create/to_be_modified)`.
 - **steps**: sequencia de ações a serem descritas dos eventos que serão realizados no desenvolvimento da funcionalidade. é indicado que quem estiver descrevendo pautar suas decisões baseados na tecnologia que será utilizada com escrotineo técnico.
 = **tasks**: fragmentação do refining no número de tarefas necessárias para completar a funcionalidade, é indicado fragmentar o maximo possível sem perder a responsabilidade da tarefa e sem reescrever funcionalidades recem escritas do conjunto de tarefas anteriormente realizadas na mesma funcionalidade.
 - **cases**: descrição dos casos de testes que deverão ser contemplados, de forma lógica e se necessário de forma técnica caso algum detalhe importante relacionado a ambiente, dependencia ou técnologia seja necessário.
